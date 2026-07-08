@@ -1,0 +1,34 @@
+[
+  {
+    "id": "EM-101",
+    "type": "Medical Request",
+    "status": "Active",
+    "priority": "High",
+    "time": "14:20",
+    "location": "Sector 4, Block B"
+  },
+  {
+    "id": "EM-102",
+    "type": "Lost Child",
+    "status": "Resolved",
+    "priority": "Critical",
+    "time": "13:45",
+    "location": "Near North Food Court"
+  },
+  {
+    "id": "EM-103",
+    "type": "Security Alert",
+    "status": "Active",
+    "priority": "Medium",
+    "time": "14:25",
+    "location": "Gate B Entrance"
+  },
+  {
+    "id": "EM-104",
+    "type": "Fire Alert",
+    "status": "False Alarm",
+    "priority": "Critical",
+    "time": "12:10",
+    "location": "Parking Level 2"
+  }
+]

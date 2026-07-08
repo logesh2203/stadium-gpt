@@ -1,0 +1,9 @@
+{
+  "total_visitors": 65000,
+  "current_visitors": 42500,
+  "crowd_status": "High",
+  "emergency_alerts": 2,
+  "medical_requests": 4,
+  "parking_availability": "15%",
+  "ai_recommendation": "High crowd near Gate A. Recommend opening Gate C and deploying 2 additional volunteers to the North Food Court."
+}

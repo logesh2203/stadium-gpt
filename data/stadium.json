@@ -1,0 +1,70 @@
+{
+  "stadium": {
+    "name": "FIFA World Cup 2026 Arena",
+    "gates": [
+      {
+        "id": "Gate A",
+        "description": "Main Entrance, North Side.",
+        "crowd_status": "Low"
+      },
+      {
+        "id": "Gate B",
+        "description": "East Entrance, VIP access.",
+        "crowd_status": "High"
+      },
+      {
+        "id": "Gate C",
+        "description": "South Entrance, closest to parking.",
+        "crowd_status": "Medium"
+      }
+    ],
+    "parking": {
+      "description": "General parking is located at the South end near Gate C. VIP parking is near Gate B."
+    },
+    "medical_rooms": [
+      {
+        "id": "Med-1",
+        "location": "Near Gate A, Level 1",
+        "status": "Open"
+      },
+      {
+        "id": "Med-2",
+        "location": "Near Gate C, Level 2",
+        "status": "Open"
+      }
+    ],
+    "food_courts": [
+      {
+        "name": "North Food Court",
+        "location": "Level 1, North Wing near Gate A",
+        "offerings": ["Burgers", "Pizza", "Drinks"]
+      },
+      {
+        "name": "South Food Court",
+        "location": "Level 2, South Wing",
+        "offerings": ["Tacos", "Hotdogs", "Vegan Options"]
+      }
+    ],
+    "restrooms": [
+      {
+        "location": "Level 1, near Gate A"
+      },
+      {
+        "location": "Level 1, near Gate B"
+      },
+      {
+        "location": "Level 2, near South Food Court"
+      }
+    ],
+    "emergency_exits": [
+      "Exit 1: North-West Corner",
+      "Exit 2: North-East Corner",
+      "Exit 3: South-West Corner",
+      "Exit 4: South-East Corner"
+    ],
+    "emergency_contacts": {
+      "security_office": "Level 1, Central Hub",
+      "phone_number": "+1-800-STADIUM"
+    }
+  }
+}

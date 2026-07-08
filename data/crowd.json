@@ -1,0 +1,38 @@
+[
+  {
+    "gate": "Gate A",
+    "current_crowd": 1200,
+    "status": "High",
+    "waiting_time_mins": 15,
+    "estimated_entry_time": "14:45",
+    "ai_recommendation": "Open Gate C. Deploy two volunteers.",
+    "color": "red"
+  },
+  {
+    "gate": "Gate B",
+    "current_crowd": 450,
+    "status": "Medium",
+    "waiting_time_mins": 5,
+    "estimated_entry_time": "14:35",
+    "ai_recommendation": "Monitor situation.",
+    "color": "yellow"
+  },
+  {
+    "gate": "Gate C",
+    "current_crowd": 100,
+    "status": "Low",
+    "waiting_time_mins": 1,
+    "estimated_entry_time": "14:31",
+    "ai_recommendation": "Direct traffic from Gate A to Gate C.",
+    "color": "green"
+  },
+  {
+    "gate": "Gate D",
+    "current_crowd": 800,
+    "status": "High",
+    "waiting_time_mins": 10,
+    "estimated_entry_time": "14:40",
+    "ai_recommendation": "Increase security presence.",
+    "color": "red"
+  }
+]
